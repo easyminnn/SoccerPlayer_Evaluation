@@ -1,6 +1,6 @@
 # SoccerPlayer_Evaluation
-### This repo is for soccerplayer value market evaluation. 
-### It investigates **Big 5 League FW & MF 5931 soccer players who played among 2021-2022, 2022-2023, 2023-2024 Seseon**.
+#### This repo is for Value Market Evaluation of Soccer Players. 
+#### It investigates **Big 5 League FW & MF 5931 soccer players who played among 2021-2022, 2022-2023, 2023-2024 Seseon**.
 
 
 # Player Attributes Dataset
