@@ -2,12 +2,16 @@
 This repo is for soccerplayer value market evaluation. 
 
 
-# Dataset
+# Player Attributes Dataset
 Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here and free to join!
 
-#Player Attributes
+You can download the complete dataset used for the analysis from the link below:
+[Download the 3years_statistics1.xlsx file]([path/to/3years_statistics1.xlsx](https://docs.google.com/spreadsheets/d/1p4p690VWMjMB_3mkBzbgOi3ZfvBowVF3/edit?usp=drive_link&ouid=109629826928896722483&rtpof=true&sd=true))
 
-### General Information
+
+# Player Attributes
+
+### 1. General Information
 | Attribute | Description |
 |-----------|-------------|
 | **Rk** | Rank - The player's rank in the list. |
@@ -21,7 +25,7 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **Pos** | Position - The player's position on the field. |
 | **id** | An identifier for the player. |
 
-### Playing Time
+### 2. Playing Time
 | Attribute | Description |
 |-----------|-------------|
 | **MP** | Matches Played - The number of matches the player appeared in. |
@@ -31,7 +35,7 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **Subs** | Number of times substituted on. |
 | **unSub** | Number of matches played without being substituted. |
 
-### Expected Goals and Assists
+### 3. Expected Goals and Assists
 | Attribute | Description |
 |-----------|-------------|
 | **xG.1** | Expected Goals (another representation or specific scenario). |
@@ -45,7 +49,7 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **A-xAG** | Assists minus Expected Assists - Difference between actual assists and xAG. |
 | **npxG/Sh** | Non-Penalty xG per Shot - Quality of shots excluding penalties. |
 
-### Shooting
+### 4. Shooting
 | Attribute | Description |
 |-----------|-------------|
 | **Sh** | Shots - Total number of shots taken. |
@@ -56,7 +60,7 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **Dist** | Average shot distance. |
 | **FK** | Number of free kicks taken. |
 
-### Performance
+### 5. Performance
 | Attribute | Description |
 |-----------|-------------|
 | **Gls** | Goals - Total goals scored. |
@@ -67,7 +71,7 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **PKatt** | Penalty Attempts - Total penalty attempts. |
 | **PKm** | Penalty Misses. |
 
-### Touches
+### 6. Touches
 | Attribute | Description |
 |-----------|-------------|
 | **Touches** | Total number of touches. |
@@ -78,7 +82,7 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **Att Pen** | Touches in Attacking Penalty Area. |
 | **Live** | Touches in open play (excluding set-pieces). |
 
-### Carries
+### 7. Carries
 | Attribute | Description |
 |-----------|-------------|
 | **Carries** | Total carries (dribbling). |
@@ -90,13 +94,13 @@ Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here a
 | **Mis** | Miscontrols - Times the player lost control of the ball. |
 | **Dis** | Dispossessed - Times the player was dispossessed by an opponent. |
 
-### Receiving
+### 8. Receiving
 | Attribute | Description |
 |-----------|-------------|
 | **Rec** | Total receptions of the ball. |
 | **PrgR** | Progressive Receptions - Receptions of the ball that advance the ball significantly towards the opponent’s goal. |
 
-### Passing
+### 9. Passing
 | Attribute | Description |
 |-----------|-------------|
 | **Cmp** | Completed Passes. |
