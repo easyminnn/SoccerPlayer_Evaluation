@@ -6,7 +6,7 @@ This repo is for soccerplayer value market evaluation.
 Dataset source is from [STATHead FBref](https://stathead.com/fbref/). See here and free to join!
 
 You can download the complete dataset used for the analysis from the link below:
-[Download the 3years_statistics1.xlsx file]([path/to/3years_statistics1.xlsx](https://docs.google.com/spreadsheets/d/1p4p690VWMjMB_3mkBzbgOi3ZfvBowVF3/edit?usp=drive_link&ouid=109629826928896722483&rtpof=true&sd=true))
+[Download the 3years_statistics1.xlsx file]([path/to/3years_statistics1.xlsx](https://docs.google.com/spreadsheets/d/1p4p690VWMjMB_3mkBzbgOi3ZfvBowVF3/edit?usp=drive_link&ouid=109629826928896722483&rtpof=true&sd=true)
 
 
 # Player Attributes
