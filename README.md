@@ -16,7 +16,7 @@ You can download the complete dataset used for the analysis from the link below:
 ### 1. General Information
 | Attribute | Description |
 |-----------|-------------|
-| **Rk** | Rank - The player's rank in the list. |
+| **Rk** | Rank - The player's rank in the list.(based on xG) |
 | **Player** | Name of the player. |
 | **xG** | Expected Goals - A metric that estimates the quality of goalscoring chances and the likelihood of them being scored. |
 | **Season** | The season in which the data was collected. |
